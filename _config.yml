@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "CS노트"
+title                    : "SPA"
 title_separator          : "|"
-subtitle                 : "small positive action"
+subtitle                 : "Small Positive Action"
 name                     : "김형진"
 description              : "만족은 결과가 아니라 과정에서 온다."
 url                      : "https://OneDayOneAlgorithm.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/cs_logo.png"
+logo                     : "/assets/images/mint.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
