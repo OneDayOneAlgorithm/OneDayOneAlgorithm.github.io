@@ -109,6 +109,10 @@ Spring에는 모든 인터페이스와 클래스를 저장하는 bean이라는 �
 
 ### Today I Learn
 
+#### 스웨거 진입 방법
+
+'http://localhost/swagger-ui.html'
+
 ### Diary
 
 ## 2023-07-11 (화)
