@@ -37,6 +37,10 @@ sidebar:
 
 ### Today I Learn
 
+- Spring에서 ComponentScan을 용하면 해당 패키지 내에 있는 모든 클래스를 Bean에 추가하게 된다. 추가로 includeFilters와 excludefilters 속성을 사용해 불 필요한 Bean 등록을 줄일 수 있다.
+
+- 수동빈 등록은 자동빈 등록보다 우선권이 있어서 클래스이름 중복 오류가 생기지 않는다. 그러나 스프링 부트에서는 오류가 발생한다.
+
 ### Diary
 
 ## 2023-07-10 (월)
@@ -71,7 +75,7 @@ sidebar:
 
 - ~~싸피 출근 준비~~
 
-- 22:30 취침 05:30 기상
+- ~~22:30 취침 05:30 기상~~
 
 ### Today I Learn
 
