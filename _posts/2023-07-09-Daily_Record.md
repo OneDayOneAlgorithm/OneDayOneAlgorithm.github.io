@@ -9,6 +9,16 @@ sidebar:
     nav: "docs"
 ---
 
+## 2023-07-13 (목)
+
+### Todo List
+
+### Today I Learn
+
+- 의존관계 주입 @autowired는 Bean 안에 있는 class일 때만 해당된다. (config class에 등록 해 주어야 한다.)
+
+### Diary
+
 ## 2023-07-12 (수)
 
 ### Todo List
