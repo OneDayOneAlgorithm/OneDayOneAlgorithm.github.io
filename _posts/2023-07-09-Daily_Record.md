@@ -9,6 +9,44 @@ sidebar:
     nav: "docs"
 ---
 
+## 2023-08-30 (수)
+
+### Todo List
+
+- ~~싸이클 & 스트레칭~~
+
+- Spring 코드 해석
+
+- 싸이클, 스트레칭, 맨몸 운동
+
+- 햇반, 토마토, 닭다리살, 견과류, 블루베리, 아보카도
+
+- 유산균, 종합 비타민, 비타민 C, 칼마D, 오메가3 섭취 
+
+- 알고리즘 1문제
+
+- 물 2L 섭취
+
+- 22:30 취침
+
+### Not Todo List
+
+- Youtube Shorts
+
+### Today I Learn
+
+#### 블록체인 기본 개념과 작동 원리
+
+[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://polished-metal-a13.notion.site/2ac5548d03084fdc811cd750dc12e7d6?pvs=4)
+
+### schedule
+
+07:30 ~ 07:40 기상 후 싸이클
+
+07:40 ~ 08:45 아침 준비 후 출근
+
+09:00 ~ 10:00 블록체인 기본 개념과 작동 원리
+
 ## 2023-08-29 (화)
 
 ### Todo List
@@ -31,7 +69,7 @@ sidebar:
 
 ### Not Todo List
 
-- Youtube Shorts
+- ~~Youtube Shorts~~
 
 ### Today I Learn
 
@@ -55,7 +93,7 @@ sidebar:
 
 20:30 ~ 22:00 저녁
 
-22:00 ~ 23:20 개인정비
+22:00 ~ 00:30 개인정비 이후 취침
 
 ## 2023-08-28 (월)
 
