@@ -39,6 +39,10 @@ sidebar:
 
 [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://polished-metal-a13.notion.site/2ac5548d03084fdc811cd750dc12e7d6?pvs=4)
 
+#### Fidler 사용법
+
+[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://polished-metal-a13.notion.site/Fiddler-4bba43c51040435c94b036c4110ce9ca?pvs=4)
+
 ### schedule
 
 07:30 ~ 07:40 기상 후 싸이클
