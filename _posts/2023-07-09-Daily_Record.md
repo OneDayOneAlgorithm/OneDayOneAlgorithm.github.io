@@ -9,6 +9,44 @@ sidebar:
     nav: "docs"
 ---
 
+## 2023-09-05 (화)
+
+### Todo List
+
+- ~~싸이클 & 스트레칭~~
+
+- 싸이클, 스트레칭, 맨몸 운동
+
+- 견과류, 바나나, 토마토, 당근, 아보카도, 블루베리, 닭다리살
+
+- 유산균, 종합 비타민, 비타민 C, 칼마D, 오메가3 섭취
+
+- 알고리즘 1문제
+
+- 물 2L 섭취
+
+- 22:30 취침
+
+### Not Todo List
+
+- 게임
+
+### Today I Learn
+
+#### [데이터 사이언스와 데이터 셋 활용](https://polished-metal-a13.notion.site/33c99b013f4b4defb50c755b26e226d6?pvs=4)
+
+#### [기술블로그 취합 사이트](https://techblogposts.com)
+
+#### [망 중립성 (눈물 흘리는 트위치)](http://web.humoruniv.com/board/humor/read.html?table=pds&number=1183867)
+
+### schedule
+
+07:35~ 07:40 싸이클
+
+07:40 ~ 09:00 씻고 출근
+
+09:00 ~ 09:30 데이터 사이언스와 데이터 셋 활용 특강
+
 ## 2023-09-04 (월)
 
 ### Todo List
@@ -33,7 +71,7 @@ sidebar:
 
 ### Today I Learn
 
-[전문가 리뷰 대비](https://polished-metal-a13.notion.site/499bbe401af24da5a12d6ae7678a5ff1?pvs=4)
+#### [전문가 리뷰 대비](https://polished-metal-a13.notion.site/499bbe401af24da5a12d6ae7678a5ff1?pvs=4)
 
 ### schedule
 
