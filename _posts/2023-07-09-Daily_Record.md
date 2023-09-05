@@ -39,6 +39,12 @@ sidebar:
 
 #### [망 중립성 (눈물 흘리는 트위치)](http://web.humoruniv.com/board/humor/read.html?table=pds&number=1183867)
 
+#### 세탁 세제 용량
+
+- 세제 : 수위 Level 1 : 40mL, Level 2 : 60mL  , Level 3 : 65mL, Level 4 : 80mL
+
+- 섬유 유연제 : 수위 Level 1 : 15mL, Level 2 : 20mL , Level 3 : 25mL, Level 4 : 30mL
+
 ### schedule
 
 07:35~ 07:40 싸이클
@@ -46,6 +52,8 @@ sidebar:
 07:40 ~ 09:00 씻고 출근
 
 09:00 ~ 09:30 데이터 사이언스와 데이터 셋 활용 특강
+
+18:00 ~ 20:30 세탁 연구 
 
 ## 2023-09-04 (월)
 
