@@ -35,13 +35,21 @@ sidebar:
 
 #### [인공지능 기술 기반의 특화PJT 기획](https://polished-metal-a13.notion.site/PJT-4d63be30b35747129222c20be18acff8?pvs=4)
 
+#### [Index](https://polished-metal-a13.notion.site/Index-7d9446ec24c644a99b5df241b4f38ff5?pvs=4)
+
 ### schedule
 
 07:35~ 09:00 싸이클 & 씻기 & 출근
 
-09:00 ~ 인공지능 기술 기반의 특화PJT 기획
+09:00 ~ 09:30 인공지능 기술 기반의 특화PJT 기획
 
-## 2023-09-05 (화)
+09:30 ~ 10:00 Index  특강 & 스크럼 미팅
+
+10:00 ~ 11:00 socket 개발
+
+11:00 ~ 12:00 점심
+
+12:00 ~ 18:00 socket 개발
 
 ### Todo List
 
