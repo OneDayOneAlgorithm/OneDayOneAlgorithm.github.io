@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 ---
 
-## 2023-09-07 (목)
+## 2023-09-08 (금)
 
 ### Todo List
 
@@ -33,9 +33,45 @@ sidebar:
 
 ### Today I Learn
 
-#### [게임 제작 방법 노하우](https://polished-metal-a13.notion.site/8ce2b6389b6b4af489a48aa15d0df6ed?pvs=4)
+#### [금융권 내부 인터페이스 소개](https://polished-metal-a13.notion.site/b844eb832f8a4972a14f8d722efcdf6b?pvs=4)
 
-#### [삼성전자 협업 특강](https://polished-metal-a13.notion.site/4222aab771c947219b9e98c08bf0d79e?pvs=4)
+#### [Index 설계 예시](https://polished-metal-a13.notion.site/Index-6a9d92fb0eaa41edadf662a2bc7a7bcf?pvs=4)
+
+### schedule
+
+07:35~ 09:00 싸이클 & 씻기 & 출근
+
+09:00 ~ 09:40 금융권 내부 인터페이스 소개 특강
+
+09:40 ~ 11:00 socket 개발
+
+11:00 ~ 12:00 점심
+
+## 2023-09-07 (목)
+
+### Todo List
+
+- ~~싸이클 & 스트레칭~~
+
+- ~~싸이클, 스트레칭, 맨몸 운동~~
+
+- ~~견과류, 바나나, 토마토, 당근~~, 아보카도, 블루베리, ~~계란~~
+
+- 유산균, ~~종합 비타민, 비타민 C, 칼마D, 오메가3 섭취~~
+
+- 알고리즘 1문제
+
+- ~~물 2L 섭취~~
+
+- 22:30 취침
+
+### Not Todo List
+
+- ~~게임~~
+
+### Today I Learn
+
+#### [게임 제작 방법 노하우](https://polished-metal-a13.notion.site/8ce2b6389b6b4af489a48aa15d0df6ed?pvs=4)
 
 ### schedule
 
@@ -51,9 +87,11 @@ sidebar:
 
 13:00 ~ 13:30 전문가 미팅
 
-13:30 ~ 15:30 socket 개발
+13:30 ~ 18:00 socket 개발
 
-15:30 ~ 18:00 삼성전자 협업 특강
+18:00 ~ 20:30 운동
+
+20:30 ~ 00:40 씻기 & 저녁 & 개인정비 & 취침
 
 ## 2023-09-06 (수)
 
