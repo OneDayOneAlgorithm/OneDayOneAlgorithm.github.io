@@ -1,19 +1,22 @@
 ---
 layout: single
-title:  "Diary"
+title:  "2023-07, 2023-08, 2023-09"
 categories: Diary
+
 # tags: [Daily_Record]
+
 toc: true
 author_profile: false
 sidebar:
     nav: "docs"
+
 ---
 
 ## 2023-09-14 (목)
 
 ### Todo List
 
-- 빨래 (아침, 저녁)
+- ~~빨래 (아침, 저녁)~~
 
 - 싸이클 & 스트레칭
 
@@ -21,13 +24,11 @@ sidebar:
 
 - 알고리즘 1문제
 
-- 발표 ppt 준비
+- ~~발표 ppt 준비~~
 
-- 소켓 코드 정리
+- ~~소켓 코드 정리~~
 
 ### Today I Learn
-
-
 
 ### schedule
 
