@@ -1,10 +1,8 @@
 ---
 layout: single
 title:  "2023-10"
-categories: Diary
-
-# tags: [Daily_Record]
-
+categories: Daily_Record
+tags: [2023_10]
 toc: true
 author_profile: false
 sidebar:

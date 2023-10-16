@@ -1,15 +1,12 @@
 ---
 layout: single
 title:  "2023-09"
-categories: Diary
-
-# tags: [Daily_Record]
-
+categories: Daily_Record
+tags: [2023_09]
 toc: true
 author_profile: false
 sidebar:
     nav: "docs"
-
 ---
 
 ## 2023-09-22 (금)
