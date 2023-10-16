@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "2023-07, 2023-08, 2023-09"
-categories: Daily_Record
-tags: [2023_07_to_09]
+categories: 2023-07to09
+# tags: [Daily_Record]
 toc: true
 author_profile: false
 sidebar:
