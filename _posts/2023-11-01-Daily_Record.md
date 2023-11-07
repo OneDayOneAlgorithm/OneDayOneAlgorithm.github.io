@@ -78,6 +78,16 @@ sidebar:
 
 - 22:40 ~ 개인 정비 후 취침
 
+# Today Learn
+
+## 깃 모두 초기화
+
+- git reset --hard
+
+- git clean -fd
+
+- git pull origin master
+
 # 2023-11-06 (월)
 
 ## To Do List
